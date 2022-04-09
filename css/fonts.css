@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Helvetica Now Display';
+    src: local('Helvetica Now Display Hairline Italic'), local('Helvetica-Now-Display-Hairline-Italic'),
+        url('../fonts/HelveticaNowDisplay-Thin.woff2') format('woff2'),
+        url('../fonts/HelveticaNowDisplay-Thin.woff') format('woff'),
+        url('../fonts/HelveticaNowDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
