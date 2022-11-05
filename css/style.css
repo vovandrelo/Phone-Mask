@@ -13,7 +13,7 @@ body {
    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
-.form-inner input {
+.input {
    display: block;
    width: 100%;
    padding: 0 20px;
@@ -24,7 +24,7 @@ body {
    font-family: 'Roboto', sans-serif;
 }
 
-input[type=tel]{
+.input[type=tel]{
    font-size: 28px;
    font-family: 'Helvetica Now Display';
    font-weight: 100;
